@@ -32,9 +32,12 @@ Problems are motivated by the ones shared at:
 - [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
 - [Security](https://github.com/karan/Projects#security)
 
-dictionary app
-no copy and paste
-plagerism detector
+- dictionary app
+- no copy and paste extension
+- plagerism detector
+- blueprint
+- to do list
+- spodify
 
 Numbers
 ---------
