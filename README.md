@@ -40,6 +40,8 @@ Problems are motivated by the ones shared at:
 - spodify
 - AUTO mail replier
 - messaging app
+- Minecraft mod installer
+- Pixel art maker
 Numbers
 ---------
 
