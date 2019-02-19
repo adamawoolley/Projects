@@ -30,7 +30,7 @@ Problems are motivated by the ones shared at:
 - [Files](https://github.com/karan/Projects#files)
 - [Databases](https://github.com/karan/Projects#databases)
 - [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Security](https://github.com/karan/Projects#security)
+- [Security](https://github.com/karan/Projects#security)  
 
 - dictionary app
 - no copy and paste extension
@@ -42,6 +42,11 @@ Problems are motivated by the ones shared at:
 - messaging app
 - Minecraft mod installer
 - Pixel art maker
+- url shortener
+- quote
+- remote shell
+- parental controls
+- remote desktop  
 Numbers
 ---------
 
