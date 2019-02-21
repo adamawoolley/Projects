@@ -44,7 +44,6 @@ Problems are motivated by the ones shared at:
 - Pixel art maker
 - url shortener
 - quote
-- remote shell
 - parental controls
 - remote desktop  
 Numbers
