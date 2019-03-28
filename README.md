@@ -47,6 +47,10 @@ Problems are motivated by the ones shared at:
 - parental controls
 - remote desktop  
 - game engine  
+- minesweeper
+- scorched earth
+- science fair
+- 
 
 Numbers
 ---------
