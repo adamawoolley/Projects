@@ -50,7 +50,8 @@ Problems are motivated by the ones shared at:
 - minesweeper
 - scorched earth
 - science fair
-- 
+- cryptography website
+- ansible
 
 Numbers
 ---------
