@@ -53,6 +53,7 @@ Problems are motivated by the ones shared at:
 - cryptography website
 - ansible
 - budget tool
+- astroids
 
 Numbers
 ---------
