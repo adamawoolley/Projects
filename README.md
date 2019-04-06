@@ -54,6 +54,9 @@ Problems are motivated by the ones shared at:
 - ansible
 - budget tool
 - astroids
+- tron
+- Lunar Lander
+- typespeed
 
 Numbers
 ---------
