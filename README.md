@@ -52,6 +52,7 @@ Problems are motivated by the ones shared at:
 - science fair
 - cryptography website
 - ansible
+- budget tool
 
 Numbers
 ---------
