@@ -57,6 +57,7 @@ Problems are motivated by the ones shared at:
 - tron
 - Lunar Lander
 - typespeed
+- motion detection system & and facial recogniation
 
 Numbers
 ---------
