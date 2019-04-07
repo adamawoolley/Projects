@@ -58,6 +58,10 @@ Problems are motivated by the ones shared at:
 - Lunar Lander
 - typespeed
 - motion detection system & and facial recogniation
+- scholership
+- car fob
+- rosenworld+google classroom
+- 
 
 Numbers
 ---------
