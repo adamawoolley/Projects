@@ -61,7 +61,9 @@ Problems are motivated by the ones shared at:
 - scholership
 - car fob
 - rosenworld+google classroom
-- 
+- gradebook
+- synkthing
+- security site
 
 Numbers
 ---------
