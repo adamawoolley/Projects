@@ -64,6 +64,7 @@ Problems are motivated by the ones shared at:
 - gradebook
 - synkthing
 - security site
+- pip
 
 Numbers
 ---------
