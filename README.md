@@ -68,6 +68,7 @@ Problems are motivated by the ones shared at:
 - crystal webframework
 - ballz
 - fandom
+- flask mail
 
 Numbers
 ---------
