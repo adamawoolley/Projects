@@ -67,6 +67,7 @@ Problems are motivated by the ones shared at:
 - pip
 - crystal webframework
 - ballz
+- fandom
 
 Numbers
 ---------
