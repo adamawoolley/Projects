@@ -71,6 +71,8 @@ Problems are motivated by the ones shared at:
 - flask mail
 - gas censor
 - music interface
+- the perfect
+- irc
 
 Numbers
 ---------
