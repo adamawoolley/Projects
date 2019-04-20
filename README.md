@@ -73,6 +73,7 @@ Problems are motivated by the ones shared at:
 - music interface
 - the perfect
 - irc
+- chess machine learning ticktacktoe
 
 Numbers
 ---------
