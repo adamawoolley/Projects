@@ -75,6 +75,7 @@ Problems are motivated by the ones shared at:
 - irc
 - chess machine learning ticktacktoe
 - practical cryptography
+- mediawiki
 
 Numbers
 ---------
