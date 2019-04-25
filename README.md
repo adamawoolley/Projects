@@ -74,6 +74,7 @@ Problems are motivated by the ones shared at:
 - the perfect
 - irc
 - chess machine learning ticktacktoe
+- practical cryptography
 
 Numbers
 ---------
