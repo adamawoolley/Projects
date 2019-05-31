@@ -76,6 +76,7 @@ Problems are motivated by the ones shared at:
 - chess machine learning ticktacktoe
 - practical cryptography
 - mediawiki
+- stegonography
 
 Numbers
 ---------
