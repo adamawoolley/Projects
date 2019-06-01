@@ -77,6 +77,7 @@ Problems are motivated by the ones shared at:
 - practical cryptography
 - mediawiki
 - stegonography
+- natural selection simulation
 
 Numbers
 ---------
