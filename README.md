@@ -79,6 +79,7 @@ Problems are motivated by the ones shared at:
 - stegonography
 - natural selection simulation
 - search youtube video only in subcribed channels
+- sound recorder
 
 Numbers
 ---------
