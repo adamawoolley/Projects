@@ -82,6 +82,9 @@ Problems are motivated by the ones shared at:
 - sound recorder
 - tetriz drift
 - SAT WORDS
+- synkthing
+- 2048
+- cyberpatriot scoring engine
 
 Numbers
 ---------
