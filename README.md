@@ -86,6 +86,7 @@ Problems are motivated by the ones shared at:
 - 2048
 - cyberpatriot scoring engine
 - command line arguments parser
+- aeries
 
 Numbers
 ---------
