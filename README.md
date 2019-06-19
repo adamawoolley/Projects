@@ -88,6 +88,7 @@ Problems are motivated by the ones shared at:
 - command line arguments parser
 - aeries
 - roate matrix
+- terminal todo list
 
 Numbers
 ---------
