@@ -87,6 +87,7 @@ Problems are motivated by the ones shared at:
 - cyberpatriot scoring engine
 - command line arguments parser
 - aeries
+- roate matrix
 
 Numbers
 ---------
